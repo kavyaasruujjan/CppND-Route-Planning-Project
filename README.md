@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+In this project shortest path between two locations is calculated through A*search in OpenStreetMap. 
 
 <img src="map.png" width="600" height="450" />
 
