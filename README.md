@@ -60,5 +60,5 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 
 # Code Structure
-<img src="codestructure.PNG" width="600" height="450" />
+<img src="codestructure.PNG" width="900" height="450" />
 
