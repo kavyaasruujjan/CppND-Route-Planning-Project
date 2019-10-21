@@ -1,6 +1,6 @@
 # Route Planning Project
 
-In this project shortest path between two locations is calculated through A*search in OpenStreetMap. 
+In this project shortest path between two locations is calculated through A*search in OpenStreetMap similar to google maps.
 
 <img src="map.png" width="600" height="450" />
 
